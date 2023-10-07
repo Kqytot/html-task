@@ -1,0 +1,21 @@
+@charset "utf-8";
+caption{
+    background-color: rgb(126, 118, 107);
+    color: rgb(69, 34, 34);
+    font-size: 40px;
+}
+th{
+    font-size: 30px;
+}
+td{
+    font-family: 'Courier New', Courier, monospace,serif;
+    font-size: 21px;
+}
+thead{background-color: rgb(172, 104, 236);}
+body{
+    border: solid 3px rgb(171, 67, 67);
+}
+
+table{background-color: blanchedalmond;}
+
+th,td,body{border: solid 3px rgb(171, 67, 67);}
