@@ -1,0 +1,18 @@
+@charset "utf-8";
+li{
+    color: aqua;
+}
+.text-brown{
+    color: brown;
+}
+span{
+    border: 4px dotted blue;
+}
+
+div{
+    background-color: cadetblue;
+}
+
+img{
+    width: 80%;
+}
