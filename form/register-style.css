@@ -1,0 +1,21 @@
+@charset "utf-8";
+td{
+    background-color: rgb(211, 176, 104);
+}
+
+th{
+    background-color: antiquewhite;
+    text-align: left;
+}
+
+.do{
+    background-color: red;
+    font-size: 10px;
+    border-radius: 6px;
+    color: white;
+}
+
+.so{
+    font-size: 10px;
+    color: white;
+}
