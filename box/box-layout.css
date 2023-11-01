@@ -1,0 +1,49 @@
+.item{
+    width: 230px;
+    height: auto;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(223, 147, 55, 0.822);
+    text-align: center;
+
+}
+
+.box{
+    display: flex;
+    background-color: rgb(216, 250, 239);
+    flex-wrap: wrap;
+}
+
+.img img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.img{
+    width: 100px;
+    height: 30%;
+    margin: 0 auto;
+    text-align:center;
+}
+
+h2{
+    text-align: center;
+    width: 90%;
+}
+
+a{
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: rgb(147, 202, 202);
+    display: block;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(165, 79, 79);
+    font-size: 60px;
+}
