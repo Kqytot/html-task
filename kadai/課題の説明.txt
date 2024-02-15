@@ -1,0 +1,1 @@
+introduction.htmlとvideo.htmlにページ内遷移を追加して、その二つのページのdivのkoteiクラスに類似クラスを適用した

@@ -1,0 +1,85 @@
+#index{
+    background-image: url(img/home.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: auto;
+    padding: 0;
+  }
+
+  body {
+    margin: auto;
+    padding: auto;
+    font-family: 'Bitter', serif;
+  }
+  
+  header {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 40px;
+
+    box-sizing: border-box;
+  }
+  nav ul {
+    list-style: none;
+    max-width: 1250px;
+    margin: auto;
+    display: flex; /* フレックスコンテナとして表示 */
+  }
+  
+  nav ul li {
+    margin-right: 20px; /* メニューアイテムの右側の余白を設定 */
+  }
+  
+  nav a {
+    text-decoration: none;
+    max-width: 1250px;
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .logo img {
+    height: 100px; /* ロゴの高さを設定 */
+    float: left;
+  }
+
+  .logo p{
+    color: rgb(181, 122, 12);
+    font-size: 30px;
+  }
+  
+  #wrap {
+    margin: 20px; /* コンテンツの上下左右の余白を設定 */
+  }
+
+  nav{
+    margin: auto;
+    padding: auto;
+  }
+
+  h1{
+    font-size: 50px;
+    width: 800px;
+    padding: 90px;
+    color: aliceblue  ;
+    margin-right: auto;
+  }
+
+  #wrap{
+    padding: 150px;
+  }
+
+  .tagu{
+    text-align: right;
+    font-size: 20px;
+  }
+
+  .logo{
+    display: flex;
+  }
